@@ -3,7 +3,7 @@
 
 echo "Please wait script is starting..."
 sleep 4
-echo _____________________________________________
+echo ___________________________________
 echo "[+] Enter The City Name: "
 read city
 
